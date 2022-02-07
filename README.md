@@ -1,14 +1,9 @@
-# template
-template for pathology atlas repositories
+# Keloid- Scar
 
-see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
+Histopathology of Keloid Scar Formation 
 
-```zsh
-vips dzsave HE.svs HE
-```
-
-- [https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+- [https://pathologyatlas.github.io/keloid-scar/HE.html](https://pathologyatlas.github.io/keloid-scar/HE.html)
 
 - See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" width="100%" height="400px"></iframe>
+<iframe src="https://pathologyatlas.github.io/keloid-scar/HE.html" width="100%" height="400px"></iframe>
